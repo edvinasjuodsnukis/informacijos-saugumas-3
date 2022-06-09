@@ -1,0 +1,13 @@
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\bin\Debug\netcoreapp3.1\IS3darbas.exe
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\bin\Debug\netcoreapp3.1\IS3darbas.deps.json
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\bin\Debug\netcoreapp3.1\IS3darbas.runtimeconfig.json
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\bin\Debug\netcoreapp3.1\IS3darbas.runtimeconfig.dev.json
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\bin\Debug\netcoreapp3.1\IS3darbas.dll
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\bin\Debug\netcoreapp3.1\IS3darbas.pdb
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\obj\Debug\netcoreapp3.1\IS3darbas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\obj\Debug\netcoreapp3.1\IS3darbas.AssemblyInfoInputs.cache
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\obj\Debug\netcoreapp3.1\IS3darbas.AssemblyInfo.cs
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\obj\Debug\netcoreapp3.1\IS3darbas.csproj.CoreCompileInputs.cache
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\obj\Debug\netcoreapp3.1\IS3darbas.dll
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\obj\Debug\netcoreapp3.1\IS3darbas.pdb
+C:\Users\Edvinas\Desktop\IS3darbas\3.1.  RSA\obj\Debug\netcoreapp3.1\IS3darbas.genruntimeconfig.cache
